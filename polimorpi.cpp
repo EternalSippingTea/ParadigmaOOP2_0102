@@ -22,3 +22,10 @@ class lia : public seseorang {
         }
 };
 
+int main() { 
+    seseorang *objek;
+    joko a;
+    lia b;
+
+
+}
